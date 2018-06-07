@@ -2,7 +2,7 @@
 ![Code Image](images/code.jpg)
 
 ### UO CIT Minor
-The computer science department offers a Computer and Information Technology (CIT) minor, which emphasizes open-source technology and computing skills such as web development, networks, database programming and cloud computing. [Read more about the CIT minor at the University of Oregon]("https://cs.uoregon.edu/undergraduate/cit-minor").
+The computer science department offers a Computer and Information Technology (CIT) minor, which emphasizes open-source technology and computing skills such as web development, networks, database programming and cloud computing. [Read more about the CIT minor at the University of Oregon](https://cs.uoregon.edu/undergraduate/cit-minor).
 
 ### What the CIT Minor is about
 From logical thought to programming, database concepts to website architecture, information privacy and security to networking and multimedia, the CIT minor is designed to help you understand how Information and Web technologies can be used to transform information in your own field of study.
@@ -22,13 +22,13 @@ In the second year of the minor, students study the following topics: database d
 * CIT 383: Networks & CyberSecurity
 
 ### My CIT Projects
-* [CIS 110 Projects]("http://pages.uoregon.edu/mparker8/110/") (uoregon.edu)
-* [CIS 111 Projects]("http://pages.uoregon.edu/mparker8/111/") (uoregon.edu)
+* [CIS 110 Projects](http://pages.uoregon.edu/mparker8/110/) (uoregon.edu)
+* [CIS 111 Projects](http://pages.uoregon.edu/mparker8/111/) (uoregon.edu)
 * CIT 281 Projects
   * P1 Project Page (Github)
   * P2 Project Page (Github)
-  * P3 Project Page (Github)
-  * [P4 Project Page]("https://uo-cit.github.io/project-4-Matthew-Parker/") (Github)
+  * [P3 Project Page](https://uo-cit.github.io/project-3-Matthew-Parker/) (Github)
+  * [P4 Project Page](https://uo-cit.github.io/project-4-Matthew-Parker/) (Github)
   * P5 Project Page (Github)
 * CIT 381 Projects
 * CIT 382 Projects
